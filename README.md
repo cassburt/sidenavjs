@@ -1,5 +1,7 @@
 # Sidenav.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ubenzer/sidenavjs.svg)](https://greenkeeper.io/)
+
 [![Join the chat at https://gitter.im/ubenzer/sidenavjs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ubenzer/sidenavjs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![devDependency Status](https://david-dm.org/ubenzer/sidenavjs/dev-status.svg)](https://david-dm.org/ubenzer/sidenavjs#info=devDependencies)
 
